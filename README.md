@@ -207,6 +207,27 @@ FoodLens contributes to:
 - Region-specific food intelligence  
 
 ---
+## 📸 Screenshots
+
+<!-- Add the actual image links after uploading them to your repo -->
+
+### Onboarding Screens
+
+![Onboarding Screen](assets/readme/onboarding.png)
+
+### Authentication Screens
+
+![Authentication Screens](assets/readme/auth.png)
+
+### Main App Features
+
+![Main Features Screens](assets/readme/home.png)
+
+---
+
+### Watch the video
+
+[![Watch the video](https://i.ytimg.com/vi/2QXLybBqTmw/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAWCFgzh3McINWf_d7kKGSMIo93HQ)](https://www.youtube.com/watch?v=2QXLybBqTmw&ab_channel=YousefAbdelSamad)
 
 # 📌 License
 
