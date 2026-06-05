@@ -146,6 +146,7 @@ Digital health transformation
 AI-driven nutrition awareness
 Chronic disease dietary support
 Regionally relevant food intelligence systems
+
 📌 License
 
 This project is developed as a graduation project under academic supervision.
